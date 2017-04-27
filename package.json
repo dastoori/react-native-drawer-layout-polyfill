@@ -78,7 +78,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "react-native-drawer-layout": "git+https://github.com/dastoori/react-native-drawer-layout.git#976c3ee"
+    "react-native-drawer-layout": "git+https://github.com/dastoori/react-native-drawer-layout.git#982aae7"
   },
   "peerDependencies": {
     "react-native": "*",
